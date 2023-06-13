@@ -1,0 +1,2 @@
+# Unity3D_HotUpdate
+快速把一个Unity3D项目作为HotUpdate的案例下载后然后本地更新打开使用
