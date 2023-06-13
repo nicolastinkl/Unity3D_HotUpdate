@@ -1,0 +1,7 @@
+/Volumes/TOSHIBA EXT/iOS_Project/6-1/JEngine/UnityProject/Assets/HotUpdateResources/Main/Dll/Hidden~/HotUpdateScripts.dll
+/Volumes/TOSHIBA EXT/iOS_Project/6-1/JEngine/UnityProject/Assets/HotUpdateResources/Main/Dll/Hidden~/HotUpdateScripts.pdb
+/Volumes/TOSHIBA EXT/iOS_Project/6-1/JEngine/UnityProject/HotUpdateScripts/obj/Debug/HotUpdateScripts.csproj.AssemblyReference.cache
+/Volumes/TOSHIBA EXT/iOS_Project/6-1/JEngine/UnityProject/HotUpdateScripts/obj/Debug/HotUpdateScripts.csproj.CoreCompileInputs.cache
+/Volumes/TOSHIBA EXT/iOS_Project/6-1/JEngine/UnityProject/HotUpdateScripts/obj/Debug/HotUpdateScripts.csproj.CopyComplete
+/Volumes/TOSHIBA EXT/iOS_Project/6-1/JEngine/UnityProject/HotUpdateScripts/obj/Debug/HotUpdateScripts.dll
+/Volumes/TOSHIBA EXT/iOS_Project/6-1/JEngine/UnityProject/HotUpdateScripts/obj/Debug/HotUpdateScripts.pdb

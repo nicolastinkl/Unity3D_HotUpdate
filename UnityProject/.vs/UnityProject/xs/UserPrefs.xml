@@ -1,0 +1,67 @@
+﻿<Properties StartupConfiguration="{5B580621-09B4-68CB-B5F4-5B9DD210A60F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Resources/Shaders/SimpleGrabPassBlur.shader">
+    <Files>
+      <File FileName="Assets/Dependencies/JEngine/Editor/JEngineTools/EditorUpdates/SetData.cs" Line="26" Column="19" />
+      <File FileName="Assets/Dependencies/JEngine/Core/ILRuntimeHelper/RegisterMethodRedirection.cs" />
+      <File FileName="Assets/Dependencies/JEngine/Editor/JEngineTools/EditorUpdates/Clean.cs" />
+      <File FileName="Assets/Dependencies/JEngine/Editor/JEngineTools/EditorUpdates/ChangeScene.cs" />
+      <File FileName="Assets/Dependencies/JEngine/Editor/JEngineTools/EditorUpdates/AllowUnsafe.cs" />
+      <File FileName="Assets/Dependencies/JEngine/Core/Util/JStream.cs" />
+      <File FileName="Assets/HotUpdateResources/AddOn1/Other/test.txt" />
+      <File FileName="Assets/HotUpdateResources/Main/Common/Controller/Controller.txt" />
+      <File FileName="Assets/HotUpdateResources/Main/Shader/empty.txt" />
+      <File FileName="Assets/HotUpdateResources/Main/Common/Material/Material.txt" />
+      <File FileName="Assets/Dependencies/JEngine/Editor/JEngineTools/UpdateJEngine.cs" />
+      <File FileName="Assets/Dependencies/JEngine/Core/Logger/Log.cs" Line="44" Column="1" />
+      <File FileName="Assets/Resources/Shaders/SimpleGrabPassBlur.shader" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UnityProject" expanded="True">
+            <Node name="Assets" expanded="True" selected="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="JEngine" expanded="True">
+                  <Node name="Core" expanded="True">
+                    <Node name="Logger" expanded="True" />
+                  </Node>
+                  <Node name="Editor" expanded="True">
+                    <Node name="JEngineTools" expanded="True">
+                      <Node name="EditorUpdates" expanded="True" />
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="HotUpdateResources" expanded="True">
+                <Node name="AddOn1" expanded="True">
+                  <Node name="Other" expanded="True" />
+                </Node>
+                <Node name="Main" expanded="True">
+                  <Node name="Common" expanded="True">
+                    <Node name="Material" expanded="True" />
+                  </Node>
+                  <Node name="Shader" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Resources" expanded="True">
+                <Node name="Shaders" expanded="True" />
+              </Node>
+              <Node name="Scripts" expanded="True">
+                <Node name="Adapters" expanded="True" />
+                <Node name="Examples" expanded="True" />
+                <Node name="Helpers" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a8fd7c3b-6d32-459c-a5cd-fef2b9638a4d" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

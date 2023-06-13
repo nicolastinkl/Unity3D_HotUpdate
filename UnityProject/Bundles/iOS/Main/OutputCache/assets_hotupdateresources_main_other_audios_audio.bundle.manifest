@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2857253060
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 47df6e5c8902d6d00150f6338f8f2e88
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/HotUpdateResources/Main/Other/Audios/Audio.txt
+Dependencies: []

@@ -1,0 +1,35 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="52" Column="1" />
+      <File FileName="JEngine/Examples/Event/EventDemo.cs" Line="53" Column="35" />
+      <File FileName="JEngine/Examples/Core/Test.cs" Line="1" Column="1" />
+      <File FileName="JEngine/UI/JUIExtensions.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HotUpdateScripts" expanded="True">
+            <Node name="HotUpdateScripts" expanded="True">
+              <Node name="JEngine" expanded="True">
+                <Node name="Examples" expanded="True">
+                  <Node name="Core" expanded="True" />
+                  <Node name="Data" expanded="True" />
+                  <Node name="Event" expanded="True" />
+                </Node>
+                <Node name="UI" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

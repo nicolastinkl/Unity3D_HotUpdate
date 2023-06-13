@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 183301148
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1a1b277c3b44161a5a5683e42a063e9c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4df8c69f2c8a6ad9e3cbf82bb83e4dc3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/HotUpdateResources/Main/Other/Images/background5_v2.png
+Dependencies: []
